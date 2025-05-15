@@ -1,0 +1,137 @@
+{
+  "users": [
+    {
+      "name": "John Doe",
+      "points": 456,
+      "password": "123456",
+      "avatar": "https://example.com/avatar.jpg",
+      "email": "example@gmail.com",
+      "phone": "+1234567890",
+      "address": "123 Main St, Anytown, USA",
+      "registrationDate": "2023-03-15",
+      "id": "7104"
+    },
+    {
+      "name": "Jane Smith",
+      "points": 789,
+      "password": "abcdef",
+      "avatar": "https://example.com/avatar2.jpg",
+      "email": "jane.smith@example.com",
+      "phone": "+9876543210",
+      "address": "456 Elm St, Othertown, USA",
+      "registrationDate": "2024-04-01",
+      "id": "bd51"
+    },
+    {
+      "name": "Alice Johnson",
+      "points": 123,
+      "password": "qwerty",
+      "avatar": "https://example.com/avatar3.jpg",
+      "email": "alice.johnson@example.com",
+      "phone": "+1122334455",
+      "address": "789 Oak St, Sometown, USA",
+      "registrationDate": "2022-06-10",
+      "id": "88bc"
+    },
+    {
+      "id": "2755",
+      "avatar": "asodh",
+      "name": "Sebastian",
+      "email": "sebs@gmail.com",
+      "password": "poijqu;jokp[l]7895",
+      "phone": "+986451576532",
+      "address": "Filadelphia",
+      "points": 0
+    },
+    {
+      "id": "af2c",
+      "avatar": "asdh",
+      "name": "Mia",
+      "email": "mia@gmail.com",
+      "password": "1782p93u0d",
+      "phone": "9182e45656",
+      "address": "asdas",
+      "points": 0
+    },
+    {
+      "id": "2e2f",
+      "avatar": "https://i.pinimg.com/474x/52/db/bb/52dbbb295783d13258a8bf9c27e34a14.jpg",
+      "name": "Bonita",
+      "email": "bonita@gmail.com",
+      "password": "t67281a",
+      "phone": "9-865174-77",
+      "address": "Mexico",
+      "points": 0
+    },
+    {
+      "id": "143c",
+      "avatar": "https://i.pinimg.com/474x/f0/de/dc/f0dedcd5dff005f1f92b09073263b716.jpg",
+      "name": "Farux",
+      "email": "farux@gmail.com",
+      "password": "Stricker",
+      "phone": "+986514798",
+      "address": "Dushanbe",
+      "points": 0
+    },
+    {
+      "id": "54a3",
+      "avatar": "https://i.pinimg.com/474x/04/d7/02/04d7024ad3d3d49a31511cf43cd3f3c4.jpg",
+      "name": "Nigger",
+      "email": "nigger@gmail.com",
+      "password": "12345",
+      "phone": "asdl",
+      "address": "asdoh",
+      "points": 0
+    },
+    {
+      "id": "df0e",
+      "avatar": "https://i.pinimg.com/474x/b2/95/03/b29503b6b4923132b6c793503b32da5b.jpg",
+      "name": "Mc Queen",
+      "email": "queen@gmail.com",
+      "password": "KCHAUV",
+      "phone": "1\\7238654",
+      "address": "New York",
+      "points": 0
+    },
+    {
+      "id": "343e",
+      "avatar": "https://i.pinimg.com/736x/4d/ee/48/4dee480a9fa6ebad10520adebb0c0edf.jpg",
+      "name": "asdj",
+      "email": "dsalknd@gmail.com",
+      "password": "dkn",
+      "phone": "dlknkasd",
+      "address": "dlaksnd",
+      "points": 0
+    },
+    {
+      "id": "926e",
+      "avatar": "navigate",
+      "name": "navigate",
+      "email": "navigate@gmail.com",
+      "password": "navigate",
+      "phone": "navigate",
+      "address": "navigate",
+      "points": 0
+    },
+    {
+      "id": "9d19",
+      "avatar": "https://i.pinimg.com/736x/df/92/59/df925987c7c09aaac3504c1a80002f78.jpg",
+      "name": "Michel Scot",
+      "email": "michel@gmail.com",
+      "password": "That's what she said",
+      "phone": "56239123",
+      "address": "Dunder Miflen",
+      "points": 0
+    },
+    {
+      "id": "81fb",
+      "avatar": "https://i.pinimg.com/736x/0e/e0/5b/0ee05b97bfa2307702a4fef3c8e1d70b.jpg",
+      "name": "Shpilzman",
+      "email": "shpilzman@gmail.com",
+      "password": "Pianist",
+      "phone": "6648546849",
+      "address": "Poland",
+      "points": 0
+    }
+  ]
+}
